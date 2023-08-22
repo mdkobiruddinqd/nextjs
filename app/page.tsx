@@ -71,8 +71,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            KU ----Learn about Next.js in an interactive course
-            with&nbsp;quizzes!
+            Learn about Next.js in an interactive course with&nbsp;quizzes!
           </p>
         </a>
 
@@ -100,14 +99,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            AU Deploy{" "}
+            Deploy{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            KU AU--- Instantly deploy your Next.js site to a shareable URL with
-            Vercel.
+            nstantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
       </div>
