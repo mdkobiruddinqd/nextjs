@@ -13,7 +13,7 @@ const stats = [
 const products = [
   {
     id: 1,
-    name: "Earthen Bottle",
+    name: "Event 1",
     href: "#",
     price: "$48",
     imageSrc:
@@ -23,11 +23,11 @@ const products = [
   },
   {
     id: 2,
-    name: "Nomad Tumbler",
+    name: "Event 2",
     href: "#",
     price: "$35",
     imageSrc:
-      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "https://images.unsplash.com/photo-1517457452519-3071133d3f0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
     imageAlt:
       "Olive drab green insulated bottle with flared screw lid and flat top.",
   },
