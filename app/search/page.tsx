@@ -25,7 +25,7 @@ export default function Search() {
             placeholder="State, city or town"
           />
           <button className="rounded bg-red-600 px-9 py-2 text-white">
-            Lets go
+            Let's go
           </button>
         </div>
       </div>
